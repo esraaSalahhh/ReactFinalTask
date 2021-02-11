@@ -1,4 +1,4 @@
-.App {
+ .App {
   text-align: center;
 }
 
@@ -35,4 +35,24 @@
   to {
     transform: rotate(360deg);
   }
-}
+} 
+
+
+
+
+/*    
+        
+    <Router>
+    <div className="App">
+      <nav>
+          <Link to="/">Home</Link>
+          <Link to="/contact">About</Link>
+          <Link to="/todo">to-do</Link>
+          <Link to="/login">login</Link>
+      </nav>
+      <Routes />
+    </div>
+  </Router>
+     */
+      
+  
